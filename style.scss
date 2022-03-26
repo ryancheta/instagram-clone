@@ -1,0 +1,29 @@
+body{
+  margin: 0;
+  padding: 0;
+  overflow-x: hidden;
+  background-color: #f8f8f8;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6, 
+p,
+span {
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+  font-family: 'Roboto', sans-serif;
+  margin: 0 !important;
+}
+
+.main-feed {
+  .post-container:last-child(){
+    margin-bottom: 16.95em !important;
+  }
+
+  .post-container:nth-child(1){
+    margin-top: 3em !important;
+  }
+}

@@ -1,0 +1,14 @@
+
+<svg width="487px" height="487px" viewBox="0 0 487 487" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="instagram-tabbar-icons" transform="translate(-269.000000, -258.000000)" stroke="#000000" stroke-width="18">
+            <g id="add-media-icon" transform="translate(287.000000, 276.000000)">
+                <rect id="Rectangle" x="-9" y="-9" width="469" height="469" rx="110"></rect>
+                <g id="inner" transform="translate(112.000000, 112.000000)" stroke-linecap="round">
+                    <path d="M113.5,0.405357143 L113.5,227" id="Line-2"></path>
+                    <path d="M113.297321,0.202678571 L113.297321,226.797321" id="Line-2-Copy" transform="translate(113.297321, 113.500000) rotate(-270.000000) translate(-113.297321, -113.500000) "></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

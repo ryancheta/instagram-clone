@@ -1,0 +1,11 @@
+
+<svg width="458px" height="397px" viewBox="0 0 458 397" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="instagram-tabbar-icons" transform="translate(-283.000000, -314.000000)" stroke="#000000" stroke-width="22">
+            <g id="camera-icon" transform="translate(283.000000, 314.000000)">
+                <path d="M105.759961,30.4815813 L97.5508287,77 L50,77 C27.3563253,77 9,95.3563253 9,118 L9,347 C9,369.643675 27.3563253,388 50,388 L408,388 C430.643675,388 449,369.643675 449,347 L449,118 C449,95.3563253 430.643675,77 408,77 L368.449171,77 L360.240039,30.4815813 C358.047516,18.0572882 347.251934,9 334.635666,9 L131.364334,9 C118.748066,9 107.952484,18.0572882 105.759961,30.4815813 Z"></path>
+                <circle id="Oval" cx="229" cy="221" r="109"></circle>
+            </g>
+        </g>
+    </g>
+</svg>
